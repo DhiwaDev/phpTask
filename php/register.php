@@ -11,7 +11,7 @@ $gender = $_POST['gender'];
 // ! mysql connection
 $serverName = 'localhost';
 $userName = 'root';
-$mysql_password = 'password';
+$mysql_password = '';
 $conn = new mysqli($serverName, $userName, $mysql_password, "guvi_intern");
 
 if ($conn) {
