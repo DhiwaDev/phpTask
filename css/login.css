@@ -52,7 +52,7 @@ form label {
 .form-control:focus {
   background: none;
   color: #ffffff;
-  border: none !important;
+  border: none;
   outline: none;
 }
 .cbtn {
