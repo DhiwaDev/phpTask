@@ -39,7 +39,6 @@ CREATE TABLE `userlogin` (
 INSERT INTO `userlogin` (`email`, `password`) VALUES
 ('0@0.com', '$2y$10$8DGGqjdmhe84luyykrziauv5O70TGAsi7ywuPI3OwrwPVQiKZO1Vi'),
 ('dummy0@gmail.com', '$2y$10$80cX7oD7kc5Z/i10cuKZner9SheepQC.D2P.nyZSsNN7VZHXyuLD2'),
-('rishikesh@gmail.com', '$2y$10$aYbhgz/hSeU5BWlxKFYwBuGCP8F9E6PJkZhPGUG/UJFiXO.rPTqhe'),
 ('testy@gmail.com', '$2y$10$7FsD2IIhsUqCv5UwdhnXGu4bse35PWm52I/d9BYFz6Y.sLUW8fooO');
 
 --
